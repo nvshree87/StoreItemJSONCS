@@ -1,0 +1,24 @@
+C:\Users\shree\source\repos\Test_New\Test_New\bin\Debug\Test New.exe.config
+C:\Users\shree\source\repos\Test_New\Test_New\bin\Debug\Test New.exe
+C:\Users\shree\source\repos\Test_New\Test_New\bin\Debug\Test New.pdb
+C:\Users\shree\source\repos\Test_New\Test_New\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shree\source\repos\Test_New\Test_New\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shree\source\repos\Test_New\Test_New\obj\Debug\StoreItemJSONCS.csprojResolveAssemblyReference.cache
+C:\Users\shree\source\repos\Test_New\Test_New\obj\Debug\Test_New.Form1.resources
+C:\Users\shree\source\repos\Test_New\Test_New\obj\Debug\Test_New.Properties.Resources.resources
+C:\Users\shree\source\repos\Test_New\Test_New\obj\Debug\StoreItemJSONCS.csproj.GenerateResource.Cache
+C:\Users\shree\source\repos\Test_New\Test_New\obj\Debug\StoreItemJSONCS.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\Test_New\Test_New\obj\Debug\Test New.exe
+C:\Users\shree\source\repos\Test_New\Test_New\obj\Debug\Test New.pdb
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\bin\Debug\Test New.exe.config
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\bin\Debug\Test New.exe
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\bin\Debug\Test New.pdb
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\obj\Debug\StoreItemJSONCS.csprojResolveAssemblyReference.cache
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\obj\Debug\Test_New.Form1.resources
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\obj\Debug\Test_New.Properties.Resources.resources
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\obj\Debug\StoreItemJSONCS.csproj.GenerateResource.Cache
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\obj\Debug\StoreItemJSONCS.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\obj\Debug\Test New.exe
+C:\Users\shree\source\repos\StoreItemJSONCS\StoreItemJSONCS\obj\Debug\Test New.pdb
